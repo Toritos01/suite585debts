@@ -1,3 +1,6 @@
+# suite585debts
+A webapp for my suite to keep track of monetary and sandwich related debts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
