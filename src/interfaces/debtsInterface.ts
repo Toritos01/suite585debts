@@ -5,4 +5,7 @@ export default interface Debt {
   owedTo: User;
   amount: number;
   type: string;
+  date: Date;
+  description: string;
+  showDescription?: boolean;
 }
